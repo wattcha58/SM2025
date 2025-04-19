@@ -1,0 +1,30 @@
+{
+  "liga": {
+    "name": "Premier League",
+    "saison": "2024/2025",
+    "land": "England",
+    "anzahl_teams": 20,
+    "teams": [
+      "Arsenal FC",
+      "Aston Villa",
+      "AFC Bournemouth",
+      "Brentford FC",
+      "Brighton & Hove Albion",
+      "Chelsea FC",
+      "Crystal Palace",
+      "Everton FC",
+      "Fulham FC",
+      "Ipswich Town",
+      "Leicester City",
+      "Liverpool FC",
+      "Manchester City",
+      "Manchester United",
+      "Newcastle United",
+      "Nottingham Forest",
+      "Southampton FC",
+      "Tottenham Hotspur",
+      "West Ham United",
+      "Wolverhampton Wanderers"
+    ]
+  }
+}
